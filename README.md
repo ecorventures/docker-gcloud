@@ -1,3 +1,7 @@
+# NO LONGER MAINTAINED
+
+I'm now running my own private/on-premise registry and am no longer using GCR. If you are interested in maintaining this, let me know.
+
 # GCLOUD Service Account Command (Google Cloud SDK)
 
 This image is designed to execute [gcloud](https://cloud.google.com/sdk/) commands authenticated by a [Google service account](https://cloud.google.com/storage/docs/authentication#service_accounts) (using JSON), without having to install the commands on each Docker host.
